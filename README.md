@@ -4,7 +4,7 @@ C基础
 #include "string.h"
 #define MAX 10
 
-
+// 枚举
 //enum Sex
 //{
 //	MALE,
@@ -12,7 +12,7 @@ C基础
 //	SECRET
 //};
 
-
+//函数
 //int Add (int x,int y)
 //{
 //	int z=0;
